@@ -11,7 +11,7 @@
 
 | Afkorting | Betekenis                               |
 | --------- | --------------------------------------- |
-| `VJP`     | **V**oorafgaande **j**ournaal**p**osten |
+| `VJP`     | **<ins>V</ins>**oorafgaande **<ins>j</ins>**ournaal**<ins>p</ins>**osten |
 
 ## Voorafgaande journaalposten
 
