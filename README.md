@@ -9,9 +9,9 @@
 
 ## Afkortingen
 
-| Afkorting | Betekenis                               |
-| --------- | --------------------------------------- |
-| `VJP`     | **<ins>V</ins>**oorafgaande **<ins>j</ins>**ournaal**<ins>p</ins>**osten |
+| Afkorting | Betekenis |
+| --------- | --------- |
+| `VJP`     | <ins>V</ins>oorafgaande <ins>j</ins>ournaal<ins>p</ins>osten |
 
 ## Voorafgaande journaalposten
 
