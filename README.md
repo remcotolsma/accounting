@@ -9,8 +9,8 @@
 
 ## Afkortingen
 
-| Afkorting | Betekenis |
-| --------- | --------- |
+| Afkorting | Betekenis | Link |
+| --------- | --------- | ---- |
 | `VJP`     | **V**oorafgaande **j**ournaal**p**osten | #voorafgaande-journaalposten |
 | `RPA`     | **R**obotic **P**rocess **A**utomation  | https://nl.wikipedia.org/wiki/Robotgestuurde_procesautomatisering |
 
