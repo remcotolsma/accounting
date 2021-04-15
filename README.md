@@ -11,7 +11,8 @@
 
 | Afkorting | Betekenis |
 | --------- | --------- |
-| `VJP`     | <ins>V</ins>oorafgaande <ins>j</ins>ournaal<ins>p</ins>osten |
+| `VJP`     | **V**oorafgaande **j**ournaal**p**osten | #voorafgaande-journaalposten |
+| `RPA`     | **R**obotic **P**rocess **A**utomation  | https://nl.wikipedia.org/wiki/Robotgestuurde_procesautomatisering |
 
 ## Voorafgaande journaalposten
 
