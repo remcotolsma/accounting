@@ -30,7 +30,7 @@ In Twinfield ook wel "Openingsbalans".
 
 #### Periode `55`
 
-In Twinfield ook wel "VJP" / "Voorafgaande journaalposten".
+In Twinfield ook wel "VJP" / "Voorafgaande journaalposten" of in het Engels "Year-end adjustments".
 
 > Binnen periode 55 worden de correcties geboekt vanuit Twinfield. Na het importeren van de administratie in Visionplanner staat deze periode gekoppeld aan de prullenbak. Deze kan vanuit de prullenbak ontkoppeld worden en weer gekoppeld worden aan de juiste maand/periode. 
 
