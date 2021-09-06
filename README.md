@@ -52,3 +52,8 @@ Bron: https://support.visionplanner.com/hc/nl/articles/223213007-Twinfield-Impor
 - https://wktaanl.force.com/WoltersKluwer/s/article/Handleiding-jaarafsluiting-H4?language=nl_NL
 - https://www.wolterskluwer.com/nl-nl/solutions/tax-accounting-software/content-suite/productblog/checklist-jaarafsluiting-in-twinfield-doen
 
+#### Screenschot
+
+Kolommenbalans (in het Engels "Extended trial balance".
+
+<img width="1393" alt="Schermafbeelding 2021-09-06 om 13 21 22" src="https://user-images.githubusercontent.com/869674/132209892-08fab6eb-08e7-46c6-8b0e-0dfacb31f9b5.png">
