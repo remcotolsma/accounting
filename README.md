@@ -26,7 +26,7 @@ Bron: https://wktaanl.force.com/WoltersKluwer/s/article/Hoe-boek-ik-in-Twinfield
 
 #### Periode `0`
 
-In Twinfield ook wel "Openingsbalans".
+In Twinfield ook wel "Openingsbalans" of in het Engels "Opening balance".
 
 #### Periode `55`
 
