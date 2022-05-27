@@ -57,3 +57,8 @@ Bron: https://support.visionplanner.com/hc/nl/articles/223213007-Twinfield-Impor
 Kolommenbalans (in het Engels "Extended trial balance".
 
 <img width="1393" alt="Schermafbeelding 2021-09-06 om 13 21 22" src="https://user-images.githubusercontent.com/869674/132209892-08fab6eb-08e7-46c6-8b0e-0dfacb31f9b5.png">
+
+## **R**obotic **P**rocess **A**utomation (`RPA`)
+
+- https://www.uipath.com/
+- https://flowrobotics.nl/
